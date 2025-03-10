@@ -1,0 +1,3 @@
+{"credential":"tsmc0","password":"Almaz2004_"}
+{"credential":"tsmc0","password":"Almaz2004_"}
+{"credential":"tsmc0","password":"Almaz2004_"}

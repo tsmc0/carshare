@@ -1,0 +1,21 @@
+* {
+    --background: #141414;
+    --contrast: #171717;
+    --contrastHEX: 17.17.17;
+    --contrast-light: #2b2b2b;
+
+    --accent: #047CFD;
+    --accentRGB: 4, 124, 253;
+    --accentHover: #026ada;
+    --red: #FF3B30;
+    --yellow: #FFCC00;
+    --yellowRGB: 255,204,0;
+    --green: #28CD41;
+
+    --white: #fff;
+    --whiteRGB: 255, 255, 255;
+
+    --desktop-padding: 3%;
+
+    --transition-ms: .35s;
+}
